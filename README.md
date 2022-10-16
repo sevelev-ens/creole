@@ -1,8 +1,9 @@
+# creole
 [![PyPI version](https://badge.fury.io/py/creole.svg)](https://badge.fury.io/py/creole)
 
-# creole
-
 Creole wiki markup parser in python.
+
+Install from github with `pip install git+https://git@github.com/sevelev-ens/creole.git`.
 
 This is a backup repository of the (legacy) package `creole` available at [pypi](https://pypi.org/project/creole/).
 
