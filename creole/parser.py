@@ -240,7 +240,7 @@ class Parser(object):
             function(groups)
 
     def parse(self):
-        """Parse the text given as self.raw and return DOM tree."""
+        """Parse the text given as self.raw and return DOM tree. """
 
         self.parse_re(self.raw, self.rules.block_re)
         return self.root
