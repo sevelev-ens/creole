@@ -1,4 +1,7 @@
+[![PyPI version](https://badge.fury.io/py/creole.svg)](https://badge.fury.io/py/creole)
+
 # creole
+
 Creole wiki markup parser in python.
 
 This is a backup repository of the (legacy) package `creole` available at [pypi](https://pypi.org/project/creole/).
