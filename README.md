@@ -1,2 +1,2 @@
 # creole
-Creole wiki markup parser in python
+Creole wiki markup parser in python.
